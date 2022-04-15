@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">TestTaskTrueConf</string>
+
+    <string name="text_main">Hello</string>
+</resources>
